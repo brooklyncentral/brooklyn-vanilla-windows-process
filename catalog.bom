@@ -23,6 +23,7 @@ brooklyn.catalog:
   description: A basic Windows entity configured with scripts, e.g. for launch, check-running and stop
   itemType: template
   license: Apache-2.0
+  iconUrl: http://vignette2.wikia.nocookie.net/logopedia/images/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/revision/latest/scale-to-width-down/195?cb=20160311195341
   publish:
     license_code: Apache-2.0
     reference: reference.json
